@@ -220,7 +220,7 @@ def main_apv():
  
         time.sleep(3.5)
  
-        tks = 'Hello%20Sir YAsir,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
+        tks = 'Hello%20Sir,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
  
         os.system('am start https://wa.me/+923189141630?text=' + tks)
  
