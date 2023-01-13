@@ -188,7 +188,7 @@ def main_apv():
  
         
  
-    r1=requests.get("https://github.com/Ykimg/Paid-tools/blob/main/Aproval.txt").text
+    r1=requests.get("https://github.com/Ykimg/Aproval.txt/blob/main/Aprooval.txt").text
  
     if key1 in r1:
  
