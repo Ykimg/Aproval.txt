@@ -240,7 +240,7 @@ db    db  .d8b.  .d8888. d888888b d8888b.
    \x1b[1;92m║ AUTHOR    : YASiR_X_MARWAN      ║
    \x1b[1;92m║ GITHUB    : git.me/Ykimg ║
    \x1b[1;92m║ FACEBOOK  : YAasir\_____😘😈😘   ║
-   \x1b[1;92m║ Group     : 5G Spammer Team ║
+   \x1b[1;92m║ Group     : TERMUX FREE COMMAND║
    \x1b[1;92m║ WHATSAPP  : [ ERROR ]       ║
    \x1b[1;92m╚═════════════════════════════╝
  [$]*****************************************************[$]
