@@ -329,7 +329,7 @@ def R():
  
 				
  
-				os.system("xdg-open https://www.facebook.com/groups/429757631078895/")
+				os.system("xdg-open https://facebook.com/groups/547443853721151/")
  
 				R()
  
